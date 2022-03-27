@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HighlightTextView</string>
+    <string name="text_sample">This is a sample. Here\'s three new line (\\n) characters:\n\n\nSAMPLE TEXT:\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor urna quis orci blandit dapibus non et diam. Aenean vitae tempus magna. Nulla congue elementum nisi nec mollis. Donec hendrerit nisi ut eros dictum, eu venenatis mi commodo. Donec nisi.\n\nabc.\n\n123</string>
+</resources>
